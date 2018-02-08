@@ -3112,6 +3112,22 @@ DEV_PATHS["HMW-Sec-TR-FM"] = new Object();
 DEV_PATHS["HMW-Sec-TR-FM"]["50"] = "/config/img/devices/50/33_hmw-sec-tr-fm_thumb.png";
 DEV_PATHS["HMW-Sec-TR-FM"]["250"] = "/config/img/devices/250/33_hmw-sec-tr-fm.png";
 DEV_HIGHLIGHT["HMW-Sec-TR-FM"] = new Object();
+//========================================
+//Universalsensor
+//========================================
+DEV_HIGHLIGHT['HB-UW-Sen-THPL-I'] = new Object();
+DEV_LIST.push('HB-UW-Sen-THPL-I');
+DEV_DESCRIPTION['HB-UW-Sen-THPL-I']='Univesal Funk- Temperatur-/ Feuchte-/ Luftdruck-/ Helligkeitssensor (Innen)';
+DEV_PATHS['HB-UW-Sen-THPL-I'] = new Object();
+DEV_PATHS['HB-UW-Sen-THPL-I']['50'] = '/config/img/devices/50/hb-uw-sen-thpl-i_thumb.png';
+DEV_PATHS['HB-UW-Sen-THPL-I']['250'] = '/config/img/devices/250/hb-uw-sen-thpl-i.png';
+DEV_HIGHLIGHT['HB-UW-Sen-THPL-O'] = new Object();
+DEV_LIST.push('HB-UW-Sen-THPL-O');
+DEV_DESCRIPTION['HB-UW-Sen-THPL-O']='Univesal Funk- Temperatur-/ Feuchte-/ Luftdruck-/ Helligkeitssensor (Auﬂen)';
+DEV_PATHS['HB-UW-Sen-THPL-O'] = new Object();
+DEV_PATHS['HB-UW-Sen-THPL-O']['50'] = '/config/img/devices/50/hb-uw-sen-thpl-o_thumb.png';
+DEV_PATHS['HB-UW-Sen-THPL-O']['250'] = '/config/img/devices/250/hb-uw-sen-thpl-o.png';
+
 //======================================================================
 //Defines
 //======================================================================
